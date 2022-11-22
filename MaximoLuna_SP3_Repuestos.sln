@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximoLuna_SP3_Repuestos", "MaximoLuna_SP3_Repuestos.csproj", "{D750D8C3-9EF1-4A57-A1E3-9CEC543A29B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D750D8C3-9EF1-4A57-A1E3-9CEC543A29B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D750D8C3-9EF1-4A57-A1E3-9CEC543A29B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D750D8C3-9EF1-4A57-A1E3-9CEC543A29B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D750D8C3-9EF1-4A57-A1E3-9CEC543A29B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67A611CE-A192-4AD1-A40B-8C7DDA5EE652}
+	EndGlobalSection
+EndGlobal
